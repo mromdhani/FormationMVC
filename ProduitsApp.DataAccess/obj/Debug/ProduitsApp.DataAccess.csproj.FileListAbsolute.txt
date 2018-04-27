@@ -1,0 +1,16 @@
+C:\Users\Lab01\source\repos\MaSolutionFormationMVC\ProduitsApp.DataAccess\bin\Debug\ProduitsApp.DataAccess.dll.config
+C:\Users\Lab01\source\repos\MaSolutionFormationMVC\ProduitsApp.DataAccess\bin\Debug\ProduitsApp.DataAccess.dll
+C:\Users\Lab01\source\repos\MaSolutionFormationMVC\ProduitsApp.DataAccess\bin\Debug\ProduitsApp.DataAccess.pdb
+C:\Users\Lab01\source\repos\MaSolutionFormationMVC\ProduitsApp.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Lab01\source\repos\MaSolutionFormationMVC\ProduitsApp.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lab01\source\repos\MaSolutionFormationMVC\ProduitsApp.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Lab01\source\repos\MaSolutionFormationMVC\ProduitsApp.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lab01\source\repos\MaSolutionFormationMVC\ProduitsApp.DataAccess\obj\Debug\ProduitsApp.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Lab01\source\repos\MaSolutionFormationMVC\ProduitsApp.DataAccess\obj\Debug\ProduitsApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lab01\source\repos\MaSolutionFormationMVC\ProduitsApp.DataAccess\obj\Debug\ProduitsApp.DataAccess.csproj.CopyComplete
+C:\Users\Lab01\source\repos\MaSolutionFormationMVC\ProduitsApp.DataAccess\obj\Debug\ProduitsApp.DataAccess.dll
+C:\Users\Lab01\source\repos\MaSolutionFormationMVC\ProduitsApp.DataAccess\obj\Debug\ProduitsApp.DataAccess.pdb
+C:\Users\Lab01\source\repos\MaSolutionFormationMVC\ProduitsApp.DataAccess\obj\Debug\ProduitsApp.DataAccess.Migrations.Creationinitial.resources
+C:\Users\Lab01\source\repos\MaSolutionFormationMVC\ProduitsApp.DataAccess\obj\Debug\ProduitsApp.DataAccess.csproj.GenerateResource.cache
+C:\Users\Lab01\source\repos\MaSolutionFormationMVC\ProduitsApp.DataAccess\obj\Debug\ProduitsApp.DataAccess.Migrations.AjoutduchampsQuantiteenstock.resources
+C:\Users\Lab01\source\repos\MaSolutionFormationMVC\ProduitsApp.DataAccess\obj\Debug\ProduitsApp.DataAccess.Migrations.demoAssociationManyToMany.resources

@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title></title>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+
+    <script src="Scripts/jquery-1.9.1.js"></script>
+
+    <script>
+
+        //function additionner() {
+        //    var nb1 = document.getElementById("nb1");
+        //    var nb2 = document.getElementById("nb2");
+
+        //    var somme = parseInt(nb1.value) + parseInt(nb2.value);
+
+        //    document.getElementById("resultat").innerHTML = somme.toString();
+        //}
+        
+        $(document).ready(
+             () => {
+                $("#btn").click( () => {
+                    var nb1 = $("#nb1").val();
+                    var nb2 = $("#nb2").val();
+                    var somme = parseInt(nb1) + parseInt(nb2);
+
+                    $("#resultat").html(somme.toString());
+                })
+
+            }
+           
+            );
+
+
+
+    </script>
+
+</head>
+<body>
+    <div class="page-header">
+        <h1>Application d'addition de deux entiers</h1>
+    </div>
+    <div class="container">
+        <form class="form-horizontal" role="form">
+            <div class="form-group">
+                <label class="col-sm-2 control-label" for="nb1">Introduire nombre1</label>
+                <div class="col-sm-10">
+                    <input type="number" class="form-control" id="nb1" placeholder="Entrer nombre1">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-2 control-label" for="nb2">Introduire nombre2</label>
+                <div class="col-sm-10">
+                    <input  type="number" class="form-control" id="nb2" placeholder="Entrer nombre2">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-sm-offset-2 col-sm-10">
+                    <button  id="btn" type="button" class="btn btn-primary"> Additionner !</button>
+                </div>
+            </div>
+        </form>
+
+        <h4 id="resultat" class=" text-capitalize text-success">Resultat</h4>
+    </div>
+
+    <script src="Scripts/bootstrap.js"></script>
+
+</body>
+</html>
